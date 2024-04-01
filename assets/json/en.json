@@ -1,0 +1,22 @@
+{
+  "addTasks":"Add Tasks",
+  "titleHint": "Enter Task Title",
+  "titleLabel": "  Title",
+  "dateHint": "Enter Date ",
+  "dateLabel": "Date",
+  "timeHint": "Enter Time ",
+  "timeLabel": "Time",
+  "validatorTest": "Please Enter Data",
+  "deleteConfirmation": "Delete Confirmation",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "ask": "are you sure you want to delete?",
+  "warning": "This action cannot be undone.",
+  "noTask": "No Tasks Yet,",
+  "themeMode": "Dark Mode",
+  "arabic": "Arabic",
+  "english": "English" ,
+  "timeError": "It is not possible to add a task now or before the current time",
+  "language": "Language",
+  "forgetTask": "Don't forget to do the task"
+}
