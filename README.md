@@ -12,3 +12,7 @@ the application use MVC Architecture,SQlite As local dataBase,cubit As State man
 the application appLication provide light theme and dark theme
 
 the application provide localization of two language arabic and english
+
+
+https://github.com/yousef-nageh/TodoApp/assets/111569252/ffa824be-9705-485a-a02f-896d2b8ad9cf
+
