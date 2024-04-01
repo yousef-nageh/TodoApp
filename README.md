@@ -1,16 +1,14 @@
-# todo_app
+The ToDo app is a simple task management application designed to help users organize their daily tasks efficiently. With an intuitive user interface, users can easily add, edit, and delete tasks as well as mark them as completed.Key features include:
 
-A new Flutter project.
+Task Creation: Quickly add new tasks with a title and optional description.
 
-## Getting Started
+Priority Setting: Assign priority levels to tasks to prioritize them accordingly.
 
-This project is a starting point for a Flutter application.
+User-Friendly Interface: Intuitive design for easy navigation and seamless task management.
 
-A few resources to get you started if this is your first Flutter project:
+the application use MVC Architecture,SQlite As local dataBase,cubit As State management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+the application appLication provide light theme and dark theme
+
+the application provide localization of two language arabic and english
